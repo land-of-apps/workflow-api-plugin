@@ -7,7 +7,7 @@ work
 *.ipr
 .idea
 out
-
+appmap
 # eclipse project file
 .settings
 .classpath
