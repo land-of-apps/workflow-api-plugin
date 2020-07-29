@@ -1,0 +1,3 @@
+name: jenkins-plugin-workflow-api
+packages:
+- path: org.jenkinsci.plugins.workflow
